@@ -12,3 +12,20 @@ layout: page
 </p>
 
 <p style="text-align: left;">
+
+[Classroom Rules][1]
+
+[Classroom Tour][2]
+
+[Highlights][3]
+
+[Schedules][4]
+
+[Wishlist][5]
+
+
+ [1]: http://www.mrschunco.com/classroom/classroom-rules-2/ "Classroom Rules"
+ [2]: http://www.mrschunco.com/classroom/classroom-tour/ "Classroom Tour"
+ [3]: http://www.mrschunco.com/classroom/highlights/ "Highlights"
+ [4]: http://www.mrschunco.com/classroom/schedules/ "Schedules"
+ [5]: http://www.mrschunco.com/classroom/wish-list/ "Wishlist"
