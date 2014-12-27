@@ -14,6 +14,6 @@ layout: page
 [Math] [1]
 [Reading] [2]
 
-[1] http://www.mrschunco.com/students/math/ "Math"
-[2] http://www.mrschunco.com/students/reading-2/ "Reading"
+[1]: http://www.mrschunco.com/students/math/ "Math"
+[2]: http://www.mrschunco.com/students/reading-2/ "Reading"
 &nbsp;
