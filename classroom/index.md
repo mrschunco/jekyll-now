@@ -11,8 +11,6 @@ layout: page
   Welcome to our 2nd grade classroom! This is where you will find important information about our classroom. Please check back often throughout the year as I will be updating information and adding photos!
 </p>
 
-<p style="text-align: left;">
-
 [Classroom Rules][1]
 
 [Classroom Tour][2]
